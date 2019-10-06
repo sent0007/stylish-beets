@@ -14,6 +14,7 @@ ol {
 
 a {
   font-family: "PT Sans", sans-serif;
+  font-size: 1.25rem;
   color: #8f2440;
   text-decoration: none;
   list-style-type: none;
@@ -26,6 +27,7 @@ a:hover {
 }
 
 figcaption {
+  font-family: "PT Serif";
   text-align: center;
   font-style: italic;
 }
@@ -70,18 +72,24 @@ main ol {
   list-style-type: lower-greek;
   line-height: 1.5;
 }
+dl {
+  font-family: "PT Serif", serif;
+  line-height: 1.5;
+
+}
 
 dt {
   font-style: italic;
-  line-height: 1.5;
 }
 
 dd {
   font-weight: bold;
+  margin-left:0;
 }
 
-data {
+.data {
   font-weight: normal;
+  margin-left: 2.5rem;
 }
 
 h2 + ul {
@@ -94,6 +102,7 @@ h2 + ul {
 footer a {
   font-family: "PT Serif", serif;
   font-weight: normal;
+  font-size: .8rem;
 }
 
 footer {
