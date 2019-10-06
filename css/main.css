@@ -4,7 +4,7 @@ html {
 
 h1, h2 {
   color: #3f1622;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 1.25rem;
   font-weight: bold;
 }
@@ -14,7 +14,7 @@ ol {
 }
 
 a {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   color: #8f2440;
   font-weight: bold;
   text-decoration: none;
@@ -39,8 +39,16 @@ img {
 }
 
 figure + p {
+  font-family: "PT Serif", serif;
   font-weight: bold;
   font-size: 1.5;
+}
+
+article {
+  font-family: "PT Serif", serif;
+}"
+aside {
+  font-family: "PT Serif", serif;
 }
 
 blockquote {
@@ -58,6 +66,7 @@ strong {
 }
 
 h2 + ol {
+  font-family: "PT Serif", serif;
   list-style-type: lower-greek;
 }
 
@@ -74,11 +83,12 @@ data {
 }
 
 h2 + ul {
+  font-family: "PT Serif", serif;
   list-style-type: circle;
-  font-size: 0.8rem
+  font-size: 0.8rem;
 }
 
-footer a {
-  font-family: serif;
+footer, a {
+  font-family: "PT Serif", serif;
   font-weight: normal;
 }
