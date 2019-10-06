@@ -1,7 +1,25 @@
+html {
+  background-color: #c9b5ab;
+}
+
 h1 {
   color:#3f1622;
   font-family: 'PT Sans', sans-serif;
 }
+ol {
+  list-style-type: none;
+}
+
+a {
+  font-family: 'PT Sans', sans-serif;
+  color: #8f2440;
+  font-weight: bold;
+  text-decoration: none;
+  list-style-type: none;
+  line-height: 1.5;
+  list-style-type: none;
+}
+
 
 article {
   font-family: 'PT Serif', serif;
