@@ -33,7 +33,7 @@ figcaption {
 }
 
 img {
-  width: 512px;
+  width: 515px;
   height: 345px;
 }
 
@@ -72,10 +72,10 @@ main ol {
   list-style-type: lower-greek;
   line-height: 1.5;
 }
+
 dl {
   font-family: "PT Serif", serif;
   line-height: 1.5;
-
 }
 
 dt {
@@ -84,7 +84,7 @@ dt {
 
 dd {
   font-weight: bold;
-  margin-left:0;
+  margin-left: 0;
 }
 
 .data {
