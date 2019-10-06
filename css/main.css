@@ -13,7 +13,7 @@ ol {
   list-style-type: none;
 }
 
-a {
+li a {
   font-family: "PT Sans", sans-serif;
   color: #8f2440;
   font-weight: bold;
@@ -41,12 +41,13 @@ img {
 figure + p {
   font-family: "PT Serif", serif;
   font-weight: bold;
-  font-size: 1.5;
+  font-size: 1.25rem;
 }
 
 article {
   font-family: "PT Serif", serif;
-}"
+}
+
 aside {
   font-family: "PT Serif", serif;
 }
@@ -65,7 +66,7 @@ strong {
   font-weight: normal;
 }
 
-h2 + ol {
+main ol {
   font-family: "PT Serif", serif;
   list-style-type: lower-greek;
 }
@@ -75,11 +76,11 @@ dt {
 }
 
 dd {
-  font-weight:bold;
+  font-weight: bold;
 }
 
 data {
-  font-weight:normal;
+  font-weight: normal;
 }
 
 h2 + ul {
