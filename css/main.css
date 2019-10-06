@@ -50,12 +50,14 @@ aside {
 }
 
 blockquote {
+  font-family: "PT Serif", serif;
   font-size: 1.5rem;
   line-height: 1.5;
   font-style: italic;
 }
 
 blockquote cite {
+  font-family: "PT Serif", serif;
   font-size: .8rem;
 }
 
