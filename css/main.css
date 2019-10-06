@@ -56,3 +56,26 @@ blockquote cite {
 strong {
   font-weight: normal;
 }
+
+h2 + ol {
+  list-style-type: lower-greek;
+}
+
+dt{
+  font-style: italic;
+
+}
+
+dd {
+  font-weight:bold;
+}
+
+data {
+  font-weight:normal;
+}
+
+
+h2 + ul {
+  list-style-type: circle;
+  font-size: 0.8rem
+}
