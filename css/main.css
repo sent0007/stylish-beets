@@ -33,7 +33,7 @@ figcaption {
 }
 
 img {
-  width: 525px;
+  width: 500px;
   height: 350px;
 }
 
@@ -55,7 +55,6 @@ blockquote {
   font-size: 1.5rem;
   line-height: 1.5;
   font-style: italic;
-
 }
 
 blockquote cite {
@@ -89,7 +88,7 @@ h2 + ul {
   font-family: "PT Serif", serif;
   list-style-type: circle;
   font-size: .8rem;
-  line-height: 1.5
+  line-height: 1.5;
 }
 
 footer a {
