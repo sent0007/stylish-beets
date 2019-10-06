@@ -2,10 +2,13 @@ html {
   background-color: #c9b5ab;
 }
 
-h1 {
-  color:#3f1622;
+h1, h2 {
+  color: #3f1622;
   font-family: 'PT Sans', sans-serif;
+  font-size: 1.25rem;
+  font-weight: bold;
 }
+
 ol {
   list-style-type: none;
 }
@@ -20,6 +23,19 @@ a {
   list-style-type: none;
 }
 
+a:hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+}
+
+img {
+  size: small;
+}
 
 article {
   font-family: 'PT Serif', serif;
