@@ -33,8 +33,8 @@ figcaption {
 }
 
 img {
-  width: 512px;
-  height: 342px;
+  width: 32rem;
+  height: 21.375rem;
 }
 
 figure + p {
