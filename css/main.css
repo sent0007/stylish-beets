@@ -6,7 +6,6 @@ h1, h2 {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
   font-size: 1.25rem;
-  font-weight: bold;
 }
 
 ol {
@@ -16,7 +15,6 @@ ol {
 a {
   font-family: "PT Sans", sans-serif;
   color: #8f2440;
-  font-weight: bold;
   text-decoration: none;
   list-style-type: none;
   line-height: 1.5;
@@ -33,7 +31,7 @@ figcaption {
 }
 
 img {
-  width: 500px;
+  width: 510px;
   height: 350px;
 }
 
