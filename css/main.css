@@ -34,10 +34,25 @@ figcaption {
 }
 
 img {
-  size: small;
+  width: 475px;
+  height: 325px;
 }
 
-article {
-  font-family: 'PT Serif', serif;
+figure + p {
+  font-weight: bold;
+  font-size: 1.5;
+}
+
+blockquote {
+  font-size: 1.5rem;
+  line-height: 1.5;
   font-style: italic;
+}
+
+blockquote cite {
+  font-size: 0.8rem;
+}
+
+strong {
+  font-weight: normal;
 }
