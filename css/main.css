@@ -1,11 +1,8 @@
-/*---------------=General---------------*/
 html {
   background-color: #c9b5ab;
 }
 
-/*---------------=Masthead---------------*/
-h1,
-h2 {
+h1, h2 {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
   font-size: 1.25rem;
@@ -26,11 +23,11 @@ li a {
   list-style-type: none;
 }
 
-  a:hover {
-    color: #3f1622;
-    text-decoration: underline;
-  }
-/*---------------=Main---------------*/
+a:hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
+
 figcaption {
   text-align: center;
   font-style: italic;
@@ -78,22 +75,21 @@ dt {
   font-style: italic;
 }
 
-  dd {
-    font-weight: bold;
-  }
+dd {
+  font-weight: bold;
+}
 
-    data {
-      font-weight: normal;
-    }
-/*---------------=Main End---------------*/
+data {
+  font-weight: normal;
+}
+
 h2 + ul {
   font-family: "PT Serif", serif;
   list-style-type: circle;
   font-size: 0.8rem;
 }
-/*---------------=Footer---------------*/
-footer,
-a {
+
+footer, a {
   font-family: "PT Serif", serif;
   font-weight: normal;
 }
