@@ -32,11 +32,6 @@ figcaption {
   font-style: italic;
 }
 
-img {
-  width: 32rem;
-  height: 21.375rem;
-}
-
 figure + p {
   font-family: "PT Serif", serif;
   font-weight: bold;
